@@ -1,0 +1,12 @@
+.a2 {
+    text-decoration: none;
+    text-align: center;
+}
+
+input {
+    text-align: center;
+}
+
+.a2:hover {
+    text-decoration: underline;
+}

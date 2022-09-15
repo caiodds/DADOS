@@ -1,0 +1,16 @@
+{
+    "name": "rhyan/rhyan",
+    "description": "Projeto-JS",
+    "license": "MIN",
+    "autoload": {
+        "psr-4": {
+            "Rhyan\\Rhyan\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Caio"
+        }
+    ],
+    "require": {}
+}
